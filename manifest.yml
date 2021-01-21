@@ -1,6 +1,6 @@
 ---
 applications:
   - name: test-app
-    memory: 256M
+    memory: 128M
     instances: 1
     random-route: true
